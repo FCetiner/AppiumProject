@@ -1,4 +1,4 @@
-package appiumClassFirst;
+package firstAppiumTests;
 
 import java.net.URL;
 import java.net.MalformedURLException;

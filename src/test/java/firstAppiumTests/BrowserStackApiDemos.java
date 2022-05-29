@@ -1,4 +1,4 @@
-package appiumClassFirst;
+package firstAppiumTests;
 //   curl -u "ferhatetiner_hdXg93:RGNecZmzYsSBgdhZVMW6" -X POST "https://api-cloud.browserstack.com/app-automate/upload"  -F "file=@C:\Users\Ferhat\IdeaProjects\appiumAutomation\src\test\java\APP\apidemos.apk"
 
 import io.appium.java_client.android.AndroidDriver;
@@ -12,8 +12,8 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class BrowserStackApiDemos {
-    public static String userName = "ferhatetiner_hdXg93";
-    public static String accessKey = "RGNecZmzYsSBgdhZVMW6";
+    public static String userName = "developerteam_r8gNdl";
+    public static String accessKey = "18cc9MVxuwjSZkBTfNsb";
     public static void main(String args[]) throws MalformedURLException, InterruptedException {
 
 
